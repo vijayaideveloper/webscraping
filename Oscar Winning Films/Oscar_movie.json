@@ -1,0 +1,524 @@
+[
+    {
+        "Title":"The King's Speech",
+        "Year":2010,
+        "Nomination":12,
+        "Awards":4
+    },
+    {
+        "Title":"Inception",
+        "Year":2010,
+        "Nomination":8,
+        "Awards":4
+    },
+    {
+        "Title":"The Social Network",
+        "Year":2010,
+        "Nomination":8,
+        "Awards":3
+    },
+    {
+        "Title":"The Fighter",
+        "Year":2010,
+        "Nomination":7,
+        "Awards":2
+    },
+    {
+        "Title":"Toy Story 3",
+        "Year":2010,
+        "Nomination":5,
+        "Awards":2
+    },
+    {
+        "Title":"Alice in Wonderland",
+        "Year":2010,
+        "Nomination":3,
+        "Awards":2
+    },
+    {
+        "Title":"Black Swan",
+        "Year":2010,
+        "Nomination":5,
+        "Awards":1
+    },
+    {
+        "Title":"In a Better World",
+        "Year":2010,
+        "Nomination":1,
+        "Awards":1
+    },
+    {
+        "Title":"The Lost Thing",
+        "Year":2010,
+        "Nomination":1,
+        "Awards":1
+    },
+    {
+        "Title":"God of Love",
+        "Year":2010,
+        "Nomination":1,
+        "Awards":1
+    },
+    {
+        "Title":"The Wolfman",
+        "Year":2010,
+        "Nomination":1,
+        "Awards":1
+    },
+    {
+        "Title":"Strangers No More",
+        "Year":2010,
+        "Nomination":1,
+        "Awards":1
+    },
+    {
+        "Title":"Inside Job",
+        "Year":2010,
+        "Nomination":1,
+        "Awards":1
+    },
+    {
+        "Title":"The Artist",
+        "Year":2011,
+        "Nomination":10,
+        "Awards":5
+    },
+    {
+        "Title":"Hugo",
+        "Year":2011,
+        "Nomination":11,
+        "Awards":5
+    },
+    {
+        "Title":"The Iron Lady",
+        "Year":2011,
+        "Nomination":2,
+        "Awards":2
+    },
+    {
+        "Title":"The Descendants",
+        "Year":2011,
+        "Nomination":5,
+        "Awards":1
+    },
+    {
+        "Title":"The Girl with the Dragon Tattoo",
+        "Year":2011,
+        "Nomination":5,
+        "Awards":1
+    },
+    {
+        "Title":"Midnight in Paris",
+        "Year":2011,
+        "Nomination":4,
+        "Awards":1
+    },
+    {
+        "Title":"The Help",
+        "Year":2011,
+        "Nomination":4,
+        "Awards":1
+    },
+    {
+        "Title":"A Separation",
+        "Year":2011,
+        "Nomination":2,
+        "Awards":1
+    },
+    {
+        "Title":"The Fantastic Flying Books of Mr. Morris Lessmore",
+        "Year":2011,
+        "Nomination":1,
+        "Awards":1
+    },
+    {
+        "Title":"The Shore",
+        "Year":2011,
+        "Nomination":1,
+        "Awards":1
+    },
+    {
+        "Title":"Undefeated",
+        "Year":2011,
+        "Nomination":1,
+        "Awards":1
+    },
+    {
+        "Title":"The Muppets",
+        "Year":2011,
+        "Nomination":1,
+        "Awards":1
+    },
+    {
+        "Title":"Saving Face",
+        "Year":2011,
+        "Nomination":1,
+        "Awards":1
+    },
+    {
+        "Title":"Beginners",
+        "Year":2011,
+        "Nomination":1,
+        "Awards":1
+    },
+    {
+        "Title":"Rango",
+        "Year":2011,
+        "Nomination":1,
+        "Awards":1
+    },
+    {
+        "Title":"Argo",
+        "Year":2012,
+        "Nomination":7,
+        "Awards":3
+    },
+    {
+        "Title":"Life of Pi",
+        "Year":2012,
+        "Nomination":11,
+        "Awards":4
+    },
+    {
+        "Title":"Les Mis\u00e9rables",
+        "Year":2012,
+        "Nomination":8,
+        "Awards":3
+    },
+    {
+        "Title":"Lincoln",
+        "Year":2012,
+        "Nomination":12,
+        "Awards":2
+    },
+    {
+        "Title":"Django Unchained",
+        "Year":2012,
+        "Nomination":5,
+        "Awards":2
+    },
+    {
+        "Title":"Skyfall",
+        "Year":2012,
+        "Nomination":5,
+        "Awards":2
+    },
+    {
+        "Title":"Silver Linings Playbook",
+        "Year":2012,
+        "Nomination":8,
+        "Awards":1
+    },
+    {
+        "Title":"Zero Dark Thirty",
+        "Year":2012,
+        "Nomination":5,
+        "Awards":1
+    },
+    {
+        "Title":"Amour",
+        "Year":2012,
+        "Nomination":5,
+        "Awards":1
+    },
+    {
+        "Title":"Anna Karenina",
+        "Year":2012,
+        "Nomination":4,
+        "Awards":1
+    },
+    {
+        "Title":"Paperman",
+        "Year":2012,
+        "Nomination":1,
+        "Awards":1
+    },
+    {
+        "Title":"Brave",
+        "Year":2012,
+        "Nomination":1,
+        "Awards":1
+    },
+    {
+        "Title":"Searching for Sugar Man",
+        "Year":2012,
+        "Nomination":1,
+        "Awards":1
+    },
+    {
+        "Title":"Inocente",
+        "Year":2012,
+        "Nomination":1,
+        "Awards":1
+    },
+    {
+        "Title":"Curfew",
+        "Year":2012,
+        "Nomination":1,
+        "Awards":1
+    },
+    {
+        "Title":"12 Years a Slave",
+        "Year":2013,
+        "Nomination":9,
+        "Awards":3
+    },
+    {
+        "Title":"Gravity",
+        "Year":2013,
+        "Nomination":10,
+        "Awards":7
+    },
+    {
+        "Title":"Dallas Buyers Club",
+        "Year":2013,
+        "Nomination":6,
+        "Awards":3
+    },
+    {
+        "Title":"Frozen",
+        "Year":2013,
+        "Nomination":2,
+        "Awards":2
+    },
+    {
+        "Title":"The Great Gatsby",
+        "Year":2013,
+        "Nomination":2,
+        "Awards":2
+    },
+    {
+        "Title":"Her",
+        "Year":2013,
+        "Nomination":5,
+        "Awards":1
+    },
+    {
+        "Title":"Blue Jasmine",
+        "Year":2013,
+        "Nomination":3,
+        "Awards":1
+    },
+    {
+        "Title":"Mr Hublot",
+        "Year":2013,
+        "Nomination":1,
+        "Awards":1
+    },
+    {
+        "Title":"The Lady in Number 6: Music Saved My Life",
+        "Year":2013,
+        "Nomination":1,
+        "Awards":1
+    },
+    {
+        "Title":"Helium",
+        "Year":2013,
+        "Nomination":1,
+        "Awards":1
+    },
+    {
+        "Title":"The Great Beauty",
+        "Year":2013,
+        "Nomination":1,
+        "Awards":1
+    },
+    {
+        "Title":"20 Feet from Stardom",
+        "Year":2013,
+        "Nomination":1,
+        "Awards":1
+    },
+    {
+        "Title":"Birdman",
+        "Year":2014,
+        "Nomination":9,
+        "Awards":4
+    },
+    {
+        "Title":"The Grand Budapest Hotel",
+        "Year":2014,
+        "Nomination":9,
+        "Awards":4
+    },
+    {
+        "Title":"Whiplash",
+        "Year":2014,
+        "Nomination":5,
+        "Awards":3
+    },
+    {
+        "Title":"The Imitation Game",
+        "Year":2014,
+        "Nomination":8,
+        "Awards":1
+    },
+    {
+        "Title":"American Sniper",
+        "Year":2014,
+        "Nomination":6,
+        "Awards":1
+    },
+    {
+        "Title":"Boyhood",
+        "Year":2014,
+        "Nomination":6,
+        "Awards":1
+    },
+    {
+        "Title":"Interstellar",
+        "Year":2014,
+        "Nomination":5,
+        "Awards":1
+    },
+    {
+        "Title":"The Theory of Everything",
+        "Year":2014,
+        "Nomination":5,
+        "Awards":1
+    },
+    {
+        "Title":"Ida",
+        "Year":2014,
+        "Nomination":2,
+        "Awards":1
+    },
+    {
+        "Title":"Selma",
+        "Year":2014,
+        "Nomination":2,
+        "Awards":1
+    },
+    {
+        "Title":"Citizenfour",
+        "Year":2014,
+        "Nomination":1,
+        "Awards":1
+    },
+    {
+        "Title":"Big Hero 6",
+        "Year":2014,
+        "Nomination":1,
+        "Awards":1
+    },
+    {
+        "Title":"Crisis Hotline: Veterans Press 1",
+        "Year":2014,
+        "Nomination":1,
+        "Awards":1
+    },
+    {
+        "Title":"The Phone Call",
+        "Year":2014,
+        "Nomination":1,
+        "Awards":1
+    },
+    {
+        "Title":"Still Alice",
+        "Year":2014,
+        "Nomination":1,
+        "Awards":1
+    },
+    {
+        "Title":"Feast",
+        "Year":2014,
+        "Nomination":1,
+        "Awards":1
+    },
+    {
+        "Title":"Spotlight  ",
+        "Year":2015,
+        "Nomination":6,
+        "Awards":2
+    },
+    {
+        "Title":"Mad Max: Fury Road ",
+        "Year":2015,
+        "Nomination":10,
+        "Awards":6
+    },
+    {
+        "Title":"The Revenant   ",
+        "Year":2015,
+        "Nomination":12,
+        "Awards":3
+    },
+    {
+        "Title":"Bridge of Spies",
+        "Year":2015,
+        "Nomination":6,
+        "Awards":1
+    },
+    {
+        "Title":"The Big Short  ",
+        "Year":2015,
+        "Nomination":5,
+        "Awards":1
+    },
+    {
+        "Title":"The Danish Girl",
+        "Year":2015,
+        "Nomination":4,
+        "Awards":1
+    },
+    {
+        "Title":"Room   ",
+        "Year":2015,
+        "Nomination":4,
+        "Awards":1
+    },
+    {
+        "Title":"Ex Machina ",
+        "Year":2015,
+        "Nomination":2,
+        "Awards":1
+    },
+    {
+        "Title":"The Hateful Eight  ",
+        "Year":2015,
+        "Nomination":2,
+        "Awards":1
+    },
+    {
+        "Title":"Inside Out ",
+        "Year":2015,
+        "Nomination":2,
+        "Awards":1
+    },
+    {
+        "Title":"Amy",
+        "Year":2015,
+        "Nomination":1,
+        "Awards":1
+    },
+    {
+        "Title":"Bear Story ",
+        "Year":2015,
+        "Nomination":1,
+        "Awards":1
+    },
+    {
+        "Title":"A Girl in the River: The Price of Forgiveness  ",
+        "Year":2015,
+        "Nomination":1,
+        "Awards":1
+    },
+    {
+        "Title":"Son of Saul",
+        "Year":2015,
+        "Nomination":1,
+        "Awards":1
+    },
+    {
+        "Title":"Spectre",
+        "Year":2015,
+        "Nomination":1,
+        "Awards":1
+    },
+    {
+        "Title":"Stutterer  ",
+        "Year":2015,
+        "Nomination":1,
+        "Awards":1
+    }
+]
