@@ -1,0 +1,14 @@
+name,scifi_name,diet,activity,lifespan,weight,status,kingdom,phylum,class,order,family,genus,species,founded_countries_count
+Zebra,Equus,Herbivore,Diurnal+,22 years,450 lbs,Not Evaluated,Animalia,Chordata,Mammalia,Perissodactyla,Equidae,Equus,,Found in 14 countries
+Zebra Finch,Taeniopygia guttata,Omnivore,Diurnal,2.5 years,0.016 lbs,Least Concern,Animalia,Chordata,Aves,Passeriformes,Estrildidae,Taeniopygia,guttata,Found in 3 countries
+Zebra Mussels,Dreissena polymorpha,,Cathemeral,3 years,0.005 lbs,Least Concern,Animalia,Mollusca,Bivalvia,Venerida,Dreissenidae,Dreissena,Dreissena polymorpha,Found in 9 countries
+Zebra Shark,Stegostoma tigrinum,Carnivore,Nocturnal+,25 years,35 lbs,Endangered,Animalia,Chordata,Chondrichthyes,Orectolobiformes,Stegostomatidae,Stegostoma,tigrinum,Found in 38 countries
+Zebra Snake,Naja nigricincta,Carnivore,Nocturnal+,10 years,0.8 lbs,Least Concern,Animalia,Chordata,Reptilia,Squamata,Elapidae,Naja,nigricincta,Found in 2 countries
+Zebra Spitting Cobra,Naja nigricincta,Carnivore,Nocturnal+,10 years,,,Animalia,Chordata,Reptilia,Squamata,Elapidae,Naja,nigricincta,Found in 3 countries
+Zebra Tarantula,Davus fasciatus,Carnivore,Nocturnal+,10 years,0.02 lbs,Not Evaluated,Animalia,Arthropoda,Arachnida,Araneae,Theraphosidae,Aphonopelma,seemanni,Found in 2 countries
+Zebrafish,Danio rerio,Omnivore,Diurnal+,1.5 years,0.001 lbs,Least Concern,Animalia,Chordata,Actinopterygii,Cypriniformes,Cyprinidae,Danio,rerio,Found in 3 countries
+Zebu,Bos taurus indicus,Herbivore,Diurnal+,15 years,900 lbs,Not Evaluated,Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Bos,Bos taurus,Found in 2 countries
+Zokor,Spalacidae,Herbivore,Diurnal,5 years,1 lbs,Not Evaluated,Animalia,Chordata,Mammalia,Rodentia,Spalacidae,,,Found in 3 countries
+Zonkey,Equus asinus × Equus quagga (or other Equus zebra spp.),Herbivore,Diurnal+,20 years,420 lbs,Not Evaluated,Animalia,Chordata,Mammalia,Perissodactyla,Equidae,Equus,,
+Zorse,Equus ferus caballus × Equus quagga (hybrid; no formal binomial),Herbivore,Crepuscular+,20 years,500 lbs,Not Evaluated,Animalia,Chordata,Mammalia,Perissodactyla,Equidae,Equus,(hybrid: Equus ferus caballus × Equus quagga),
+Zuchon,,Omnivore,Diurnal+,5 years,7 lbs,Not Evaluated,Animalia,Chordata,Mammalia,Carnivora,Canidae,Canis,Canis lupus familiaris,Found in 1 state/province
